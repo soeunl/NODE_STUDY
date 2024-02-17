@@ -1,0 +1,22 @@
+[
+  {
+    "name": "kim",
+    "addr": "마포구"
+  },
+  {
+    "name": "park",
+    "addr": "성북구"
+  },
+  {
+    "name": "you",
+    "addr": "은평구"
+  },
+  {
+    "name": "html",
+    "addr": "서대문구"
+  },
+  {
+    "name": "CSS",
+    "addr": "용산구"
+  }
+]

@@ -1,0 +1,257 @@
+@charset "utf-8";
+body {
+	padding: 0px;
+	margin: 0px;
+	font-size: 9pt;
+	line-height: 170%;
+	font-family: "굴림", "굴림체", "돋움", "돋움체";
+}
+img {
+	border-width: 0px;
+}
+.topyellow {
+	width: 100%;
+	height: 125px;
+	background-color: #ffd747;
+}
+.topyellow header {
+	width: 1000px;
+	padding-top: 12px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 112px;
+	background-color: #ffd747;
+}
+.topyellow header .toplogo {
+	width: 131px;
+	height: 97px;
+	float: left;
+}
+.topyellow header .topmini {
+	float: right;
+}
+.topyellow header .search {
+	float: left;
+	margin-top: 30px;
+	margin-left: 158px;
+	width: 420px;
+
+}
+.topyellow header .topsns {
+	width: 125px;
+	height: 40px;
+	float: right;
+	clear: right;
+	margin-top: 28px;
+}
+header .search img {
+	float: right;
+}
+header .search #textfield {
+	float: left;
+	width: 350px;
+	height:31px;
+	border: 1px solid #f0ca3f;
+}
+.topyellow header .topmini ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+.topmini ul li {
+	display: inline;
+
+}
+.topmini ul li img {
+	float: left;
+}
+
+.topmenubg {
+	height: 51px;
+	width: 100%;
+	background-color: #4c0a00;
+	clear: both;
+}
+.topmenubg #mainmenu {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 51px;
+	color: #FFFFFF;
+}
+.mainimgbg {
+	width: 100%;
+	height: 360px;
+	border-bottom: 1px solid #cccccc;
+	background-color: #fbfafa;
+	clear: both;
+}
+.mainimgbg .mainimg {
+	width: 1000px;
+	height: 360px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.mainimgbg .mainimg .change {
+	width: 755px;
+	height: 360px;
+	overflow: hidden;
+	/* 작업이 완료된 후 주석 해제 */
+	float: left;
+}
+
+
+.container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15px;
+	clear: both;
+}
+.container .mainban .banframe {
+	width: 986px;
+	height: 169px;
+	border: 1px solid #cccccc;
+	background-color: #fafafa;
+	clear: both;
+	float: left;
+	padding-top: 12px;
+	padding-left: 12px;
+}
+.container .mainban img {
+	margin-right: 11px;
+}
+.container .item {
+	padding-top: 14px;
+	clear: both;
+}
+.container .item .itemlist {
+	width: 317px;
+	height: 410px;
+	padding-left: 8px;
+	padding-right: 8px;
+	float: left;
+}
+.item .itemlist .textaea {
+	background-color: #fbfafa;
+	height: 82px;
+	padding-top: 10px;
+	text-align: center;
+}
+.textpoint1 {
+	font-weight: bold;
+}
+.textpoint2 {
+	text-decoration: line-through;
+}
+.textpoint3 {
+	color: #ba1d3a;
+	font-size: 11pt;
+}
+.item .itemlist img {
+	display: block;
+}
+.container .callcenter {
+	clear: both;
+	float: left;
+}
+.container .item .itemarea {
+	clear: both;
+}
+.container .callcenter {
+	border-top: 1px solid #dddddd;
+	height: 174px;
+	width: 100%;
+	padding-bottom: 20px;
+	margin-top: 20px;
+	float: left;
+}
+.container .callcenter .notice {
+	width: 300px;
+	border-right: 1px solid #dddddd;
+	padding-top: 27px;
+	clear: both;
+	float: left;
+}
+.notice ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	width: 277px;
+}
+.notice ul li {
+	padding-top: 5px;
+	border-bottom: 1px dashed #dddddd;
+	padding-bottom: 3px;
+
+}
+.container .callcenter .callnum {
+	width: 372px;
+	border-right: 1px solid #dddddd;
+	float: left;
+	padding-top: 27px;
+	padding-left: 28px;
+}
+.container .callcenter .quick {
+	float: left;
+	padding-top: 27px;
+	padding-left: 20px;
+}
+body footer {
+	clear: both;
+}
+.footerbg {
+	background-color: #f4f3f3;
+	border-top: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+}
+.footerbg .footermenu {
+	width: 1000px;
+	height: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+}
+.address {
+	width: 1000px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mainimg ul {
+	padding-top: 30px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	list-style-type: none;
+	float: left;
+}
+.mainimg ul li {
+	width: 243px;
+	height: 65px;
+	border: 1px solid #C4C4C4;
+	text-align: center;
+	padding-top: 18px;
+	margin-top: 10px;
+}
+.mainimg ul li p {
+	margin: 0px;
+
+}
+.mainimg ul li h3 {
+	padding: 0px;
+	margin: 0px;
+}
+.mainimg ul li a {
+	text-decoration: none;
+	color: #000000;
+}
+.mainimg ul li a:hover {
+	border-top: 1px solid #D70003;
+	text-decoration: underline;
+	color: #ff0000;
+	background-color: #5B5B5B;
+}
